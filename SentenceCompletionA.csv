@@ -1,0 +1,97 @@
+﻿Group,condition,Item,factor1,factor2,factor3,Sentence,Verb,Predicate
+a,1a,1,Adj,mismatch,female,Hoe boos op hem suggereerde ,suggereren,boos
+b,1b,1,Adj,match,female,Hoe boos op haar suggereerde ,suggereren,boos
+c,1c,1,toC,mismatch,female,Hoe boos op hem suggereerde ,suggereren,boos
+d,1d,1,toC,match,female,Hoe boos op haar suggereerde ,suggereren,boos
+b,2b,2,Adj,mismatch,female,Hoe trots op hem verwachtte,verwachten,trots
+c,2c,2,Adj,match,female,Hoe trots op haar verwachtte,verwachten,trots
+d,2d,2,toC,mismatch,female,Hoe trots op hem verwachtte,verwachten,trots
+a,2a,2,toC,match,female,Hoe trots op haar verwachtte,verwachten,trots
+c,3c,3,Adj,mismatch,female,Hoe gefrustreerd met hem veronderstelde,veronderstelt,gefrustreerd
+d,3d,3,Adj,match,female,Hoe gefrustreerd met haar veronderstelde,veronderstelt,gefrustreerd
+a,3a,3,toC,mismatch,female,Hoe gefrustreerd met hem veronderstelde,veronderstelt,gefrustreerd
+b,3b,3,toC,match,female,Hoe gefrustreerd met haar veronderstelde,veronderstelt,gefrustreerd
+d,4d,4,Adj,mismatch,female,Hoe gelukkig met hem zag,zien,gelukkig
+a,4a,4,Adj,match,female,Hoe gelukkig met haar zag,zien,gelukkig
+b,4b,4,toC,mismatch,female,Hoe gelukkig met hem zag,zien,gelukkig
+c,4c,4,toC,match,female,Hoe gelukkig met haar zag,zien,gelukkig
+a,5a,5,Adj,mismatch,female,Hoe tevredemn met hem merkte,merken,tevreden
+b,5b,5,Adj,match,female,Hoe tevredemn met haar merkte,merken,tevreden
+c,5c,5,toC,mismatch,female,Hoe tevredemn met hem merkte,merken,tevreden
+d,5d,5,toC,match,female,Hoe tevredemn met haar merkte,merken,tevreden
+b,6b,6,Adj,mismatch,female,Hoe teleurgesteld in hem droomde,dromen,teleurgsteld
+c,6c,6,Adj,match,female,Hoe teleurgesteld in haar droomde,dromen,teleurgsteld
+d,6d,6,toC,mismatch,female,Hoe teleurgesteld in hem droomde,dromen,teleurgsteld
+a,6a,6,toC,match,female,Hoe teleurgesteld in haar droomde,dromen,teleurgsteld
+c,7c,7,Adj,mismatch,female,Hoe boos op hem suggereerde ,suggereren,boos
+d,7d,7,Adj,match,female,Hoe boos op haar suggereerde ,suggereren,boos
+a,7a,7,toC,mismatch,female,Hoe boos op hem suggereerde ,suggereren,boos
+b,7b,7,toC,match,female,Hoe boos op haar suggereerde ,suggereren,boos
+d,8d,8,Adj,mismatch,female,Hoe trots op hem verwachtte,verwachten,trots
+a,8a,8,Adj,match,female,Hoe trots op haar verwachtte,verwachten,trots
+b,8b,8,toC,mismatch,female,Hoe trots op hem verwachtte,verwachten,trots
+c,8c,8,toC,match,female,Hoe trots op haar verwachtte,verwachten,trots
+a,9a,9,Adj,mismatch,female,Hoe gefrustreerd met hem veronderstelde,veronderstelt,gefrustreerd
+b,9b,9,Adj,match,female,Hoe gefrustreerd met haar veronderstelde,veronderstelt,gefrustreerd
+c,9c,9,toC,mismatch,female,Hoe gefrustreerd met hem veronderstelde,veronderstelt,gefrustreerd
+d,9d,9,toC,match,female,Hoe gefrustreerd met haar veronderstelde,veronderstelt,gefrustreerd
+b,10b,10,Adj,mismatch,female,Hoe gelukkig met hem zag,zien,gelukkig
+c,10c,10,Adj,match,female,Hoe gelukkig met haar zag,zien,gelukkig
+d,10d,10,toC,mismatch,female,Hoe gelukkig met hem zag,zien,gelukkig
+a,10a,10,toC,match,female,Hoe gelukkig met haar zag,zien,gelukkig
+c,11c,11,Adj,mismatch,female,Hoe tevredemn met hem merkte,merken,tevreden
+d,11d,11,Adj,match,female,Hoe tevredemn met haar merkte,merken,tevreden
+a,11a,11,toC,mismatch,female,Hoe tevredemn met hem merkte,merken,tevreden
+b,11b,11,toC,match,female,Hoe tevredemn met haar merkte,merken,tevreden
+d,12d,12,Adj,mismatch,female,Hoe teleurgesteld in hem droomde,dromen,teleurgsteld
+a,12a,12,Adj,match,female,Hoe teleurgesteld in haar droomde,dromen,teleurgsteld
+b,12b,12,toC,mismatch,female,Hoe teleurgesteld in hem droomde,dromen,teleurgsteld
+c,12c,12,toC,match,female,Hoe teleurgesteld in haar droomde,dromen,teleurgsteld
+a,13a,13,Adj,mismatch,female,Hoe boos op hem suggereerde ,suggereren,boos
+b,13b,13,Adj,match,female,Hoe boos op haar suggereerde ,suggereren,boos
+c,13c,13,toC,mismatch,female,Hoe boos op hem suggereerde ,suggereren,boos
+d,13d,13,toC,match,female,Hoe boos op haar suggereerde ,suggereren,boos
+b,14b,14,Adj,mismatch,female,Hoe trots op hem verwachtte,verwachten,trots
+c,14c,14,Adj,match,female,Hoe trots op haar verwachtte,verwachten,trots
+d,14d,14,toC,mismatch,female,Hoe trots op hem verwachtte,verwachten,trots
+a,14a,14,toC,match,female,Hoe trots op haar verwachtte,verwachten,trots
+c,15c,15,Adj,mismatch,female,Hoe gefrustreerd met hem veronderstelde,veronderstelt,gefrustreerd
+d,15d,15,Adj,match,female,Hoe gefrustreerd met haar veronderstelde,veronderstelt,gefrustreerd
+a,15a,15,toC,mismatch,female,Hoe gefrustreerd met hem veronderstelde,veronderstelt,gefrustreerd
+b,15b,15,toC,match,female,Hoe gefrustreerd met haar veronderstelde,veronderstelt,gefrustreerd
+d,16d,16,Adj,mismatch,female,Hoe gelukkig met hem zag,zien,gelukkig
+a,16a,16,Adj,match,female,Hoe gelukkig met haar zag,zien,gelukkig
+b,16b,16,toC,mismatch,female,Hoe gelukkig met hem zag,zien,gelukkig
+c,16c,16,toC,match,female,Hoe gelukkig met haar zag,zien,gelukkig
+a,17a,17,Adj,mismatch,female,Hoe tevredemn met hem merkte,merken,tevreden
+b,17b,17,Adj,match,female,Hoe tevredemn met haar merkte,merken,tevreden
+c,17c,17,toC,mismatch,female,Hoe tevredemn met hem merkte,merken,tevreden
+d,17d,17,toC,match,female,Hoe tevredemn met haar merkte,merken,tevreden
+b,18b,18,Adj,mismatch,female,Hoe teleurgesteld in hem droomde,dromen,teleurgsteld
+c,18c,18,Adj,match,female,Hoe teleurgesteld in haar droomde,dromen,teleurgsteld
+d,18d,18,toC,mismatch,female,Hoe teleurgesteld in hem droomde,dromen,teleurgsteld
+a,18a,18,toC,match,female,Hoe teleurgesteld in haar droomde,dromen,teleurgsteld
+c,19c,19,Adj,mismatch,female,Hoe boos op hem suggereerde ,suggereren,boos
+d,19d,19,Adj,match,female,Hoe boos op haar suggereerde ,suggereren,boos
+a,19a,19,toC,mismatch,female,Hoe boos op hem suggereerde ,suggereren,boos
+b,19b,19,toC,match,female,Hoe boos op haar suggereerde ,suggereren,boos
+d,20d,20,Adj,mismatch,female,Hoe trots op hem verwachtte,verwachten,trots
+a,20a,20,Adj,match,female,Hoe trots op haar verwachtte,verwachten,trots
+b,20b,20,toC,mismatch,female,Hoe trots op hem verwachtte,verwachten,trots
+c,20c,20,toC,match,female,Hoe trots op haar verwachtte,verwachten,trots
+a,21a,21,Adj,mismatch,female,Hoe gefrustreerd met hem veronderstelde,veronderstelt,gefrustreerd
+b,21b,21,Adj,match,female,Hoe gefrustreerd met haar veronderstelde,veronderstelt,gefrustreerd
+c,21c,21,toC,mismatch,female,Hoe gefrustreerd met hem veronderstelde,veronderstelt,gefrustreerd
+d,21d,21,toC,match,female,Hoe gefrustreerd met haar veronderstelde,veronderstelt,gefrustreerd
+b,22b,22,Adj,mismatch,female,Hoe gelukkig met hem zag,zien,gelukkig
+c,22c,22,Adj,match,female,Hoe gelukkig met haar zag,zien,gelukkig
+d,22d,22,toC,mismatch,female,Hoe gelukkig met hem zag,zien,gelukkig
+a,22a,22,toC,match,female,Hoe gelukkig met haar zag,zien,gelukkig
+c,23c,23,Adj,mismatch,female,Hoe tevredemn met hem merkte,merken,tevreden
+d,23d,23,Adj,match,female,Hoe tevredemn met haar merkte,merken,tevreden
+a,23a,23,toC,mismatch,female,Hoe tevredemn met hem merkte,merken,tevreden
+b,23b,23,toC,match,female,Hoe tevredemn met haar merkte,merken,tevreden
+d,24d,24,Adj,mismatch,female,Hoe teleurgesteld in hem droomde,dromen,teleurgsteld
+a,24a,24,Adj,match,female,Hoe teleurgesteld in haar droomde,dromen,teleurgsteld
+b,24b,24,toC,mismatch,female,Hoe teleurgesteld in hem droomde,dromen,teleurgsteld
+c,24c,24,toC,match,female,Hoe teleurgesteld in haar droomde,dromen,teleurgsteld
