@@ -1,43 +1,77 @@
-﻿Group,condition,Item,factor1,factor2,factor3,Sentence,Verb,Predicate
-a,1a,1,Adj,mismatch,female,Hoe boos op hem suggereerde ,suggereren,boos
-a,2a,2,toC,match,female,Hoe trots op haar verwachtte,verwachten,trots
-a,3a,3,toC,mismatch,female,Hoe gefrustreerd met hem veronderstelde,veronderstelt,gefrustreerd
-a,4a,4,Adj,match,female,Hoe gelukkig met haar zag,zien,gelukkig
-a,5a,5,Adj,mismatch,female,Hoe tevredem=n met hem merkte,merken,tevreden
-a,6a,6,toC,match,female,Hoe teleurgesteld in haar droomde,dromen,teleurgsteld
-a,7a,7,toC,mismatch,female,Hoe verliefd op hem suggereerde ,suggereren,verliefd
-a,8a,8,Adj,match,female,Hoe ontsteld met haar verwachtte,verwachten,ontsteld
-a,9a,9,Adj,mismatch,female,Hoe blij met hem veronderstelde,veronderstelt,blij
-a,10a,10,toC,match,female,Hoe verrast met haar zag,zien,verrast
-a,11a,11,toC,mismatch,female,Hoe overdonderd door hem merkte,merken,overdonderd
-a,12a,12,Adj,match,female,Hoe gesteld op haar droomde,dromen,gesteld 
-a,13a,13,Adj,mismatch,female,Hoe boos op hem suggereerde ,suggereren,boos
-a,14a,14,toC,match,female,Hoe trots op haar verwachtte,verwachten,trots
-a,15a,15,toC,mismatch,female,Hoe gefrustreerd met hem veronderstelde,veronderstelt,gefrustreerd
-a,16a,16,Adj,match,female,Hoe gelukkig met haar zag,zien,gelukkig
-a,17a,17,Adj,mismatch,female,Hoe tevreden met hem merkte,merken,tevreden
-a,18a,18,toC,match,female,Hoe teleurgesteld in haar droomde,dromen,teleurgsteld
-a,19a,19,toC,mismatch,female,Hoe verliefd op hem suggereerde ,suggereren,verliefd
-a,20a,20,Adj,match,female,Hoe ontsteld met haar verwachtte,verwachten,ontsteld
-a,21a,21,Adj,mismatch,female,Hoe blij met hem veronderstelde,veronderstelt,blij
-a,22a,22,toC,match,female,Hoe verrast met haar zag,zien,verrast
-a,23a,23,toC,mismatch,female,Hoe overdonderd door hem merkte,merken,overdonderd
-a,24a,24,Adj,match,female,Hoe gesteld op haar droomde,dromen,gesteld 
-a,25f,25,filler,,,Hoe lang in het donker dacht ,,
-a,26f,26,filler,,,Hoe vaak was,,
-a,27f,27,filler,,,Wanneer ongeveer was ,,
-a,28f,28,filler,,,Hoe vaak in het algemeen was,,
-a,29f,29,filler,,,Wat voor type auto wilde  ,,
-a,30f,30,filler,,,Wie kon op donderdag,,
-a,31f,31,filler,,,Hoe laat in de middag arriveerde,,
-a,32f,32,filler,,,Hoe ver achteraan in de file stond,,
-a,33f,33,filler,,,Hoe vroeg op deze koude ochtend gaat,,
-a,34f,34,filler,,,Hoe lang in het donker dacht ,,
-a,35f,35,filler,,,Hoe vaak was,,
-a,36f,36,filler,,,Wanneer ongeveer was ,,
-a,37f,37,filler,,,Hoe vaak in het algemeen was,,
-a,38f,38,filler,,,Wat voor type auto wilde  ,,
-a,39f,39,filler,,,Wie kon op donderdag,,
-a,40f,40,filler,,,Hoe laat in de middag arriveerde,,
-a,41f,41,filler,,,Hoe ver achteraan in de file stond,,
-a,42f,42,filler,,,Hoe vroeg op deze koude ochtend gaat,,
+﻿Group,condition,Item,factor1,factor2,Sentence,VerbDutch,VerbEnglish,PredicateDutch,PredicateEnglish
+a,1a,1,DID,female,Hoe boos op haar suggereerde ,suggereren,suggest,boos,upset (a)
+a,2a,2,DID,female,Hoe trots op haar verwachtte,verwachten,expect,trots,proud
+a,3a,3,DID,female,Hoe gefrustreerd met haar veronderstelde,veronderstelt,presuppose,gefrustreerd,frustrated
+a,4a,4,DID,female,Hoe gelukkig met haar zag,zien,see,gelukkig,happy
+a,5a,5,DID,female,Hoe tevreden met haar merkte,merken,notice,tevreden,content
+a,6a,6,DID,female,Hoe teleurgesteld in haar droomde,dromen,dream,teleurgsteld,disappointed
+a,7a,7,DID,female,Hoe verliefd op haar suggereerde ,suggereren,suggest,verliefd,in love with
+a,8a,8,DID,female,Hoe ontsteld met haar verwachtte,verwachten,expect,ontsteld,upset (b)
+a,9a,9,DID,female,Hoe blij met haar veronderstelde,veronderstelt,presuppose,blij,happy
+a,10a,10,DID,female,Hoe verrast met haar zag,zien,see,verrast,surprised
+a,11a,11,DID,female,Hoe overdonderd door haar merkte,merken,notice,overdonderd,overwhelmed
+a,12a,12,DID,female,Hoe gesteld op haar droomde,dromen,dream,gesteld ,fond of 
+a,13a,13,DID,male,Hoe boos op hem verwachten ,verwachten,expect,boos,upset (a)
+a,14a,14,DID,male,Hoe trots op hem merken,merken,notice,trots,proud
+a,15a,15,DID,male,Hoe gefrustreerd met hem zag,zien,see,gefrustreerd,frustrated
+a,16a,16,DID,male,Hoe gelukkig met hem veronderstelt,veronderstelt,presuppose,gelukkig,happy
+a,17a,17,DID,male,Hoe tevreden met hem verwachtte,verwachten,expect,tevreden,content
+a,18a,18,DID,male,Hoe teleurgesteld in hem suggereerde,suggereren,suggest,teleurgsteld,disappointed
+a,19a,19,DID,male,Hoe verliefd op hem droomde ,dromen,dream,verliefd,in love with
+a,20a,20,DID,male,Hoe ontsteld met hem veronderstelde,veronderstelt,presuppose,ontsteld,upset (b)
+a,21a,21,DID,male,Hoe blij met hem suggereerde,suggereren,suggest,blij,happy
+a,22a,22,DID,male,Hoe verrast met hem merkte,merken,notice,verrast,surprised
+a,23a,23,DID,male,Hoe overdonderd door hem zag,zien,see,overdonderd,overwhelmed
+a,24a,24,DID,male,Hoe gesteld op hem suggereerde,suggereren,suggest,gesteld ,fond of 
+,,25,WAS,female,Hoe boos op haar was ,zijn,be,boos,upset (a)
+,,26,WAS,female,Hoe trots op haar was,zijn,be,trots,proud
+,,27,WAS,female,Hoe gefrustreerd met haar was,zijn,be,gefrustreerd,frustrated
+,,28,WAS,female,Hoe gelukkig met haar was,zijn,be,gelukkig,happy
+,,29,WAS,female,Hoe tevreden met haar was,zijn,be,tevreden,content
+,,30,WAS,female,Hoe teleurgesteld in haar was,zijn,be,teleurgsteld,disappointed
+,,31,WAS,male,Hoe verliefd op hem was ,zijn,be,verliefd,in love with
+,,32,WAS,male,Hoe ontsteld met hem was,zijn,be,ontsteld,upset (b)
+,,34,WAS,male,Hoe blij met hem was,zijn,be,blij,happy
+,,35,WAS,male,Hoe verrast met hem was,zijn,be,verrast,surprised
+,,36,WAS,male,Hoe overdonderd door hem was,zijn,be,overdonderd,overwhelmed
+,,37,WAS,male,Hoe gesteld op hem was,zijn,be,gesteld ,fond of 
+a,,38,filler,filler1,Hoe lang in het donker dacht ,denken,think,,How long in the dark 
+a,,39,filler,filler2,Hoe vaak was,zijn,be,,How often
+a,,40,filler,filler3,Wanneer ongeveer was ,zijn,be,,When approximately
+a,,41,filler,filler4,Hoe vaak in het algemeen was,zijn,be,,How often in general
+a,,42,filler,filler5,Wat voor type auto wilde  ,willen,want,,What type of car 
+a,,43,filler,filler6,Wie kon op donderdag,kunnen,can,,Who on Thursday
+a,,44,filler,filler7,Hoe laat in de middag arriveerde,arriveren,arrive,,What time in the afternoon
+a,,45,filler,filler8,Hoe ver achteraan in de file stond,staan,stand,,How far behind in the traffic jam
+a,,46,filler,filler9,Hoe vroeg op deze koude ochtend gaat,gaan,go,,How early on this cold morning
+a,,47,filler,filler10,Hoe graag vertelt,vertellen,tell,,How eagerly 
+a,,48,filler,filler11,,,,,
+a,,49,filler,filler12,,,,,
+a,,50,filler,filler13,,,,,
+a,,51,filler,filler14,,,,,
+a,,52,filler,filler15,,,,,
+a,,53,filler,filler16,,,,,
+a,,54,filler,filler17,,,,,
+a,,55,filler,filler18,,,,,
+a,,56,filler,filler19,,,,,
+a,,57,filler,filler20,,,,,
+a,,58,filler,filler21,,,,,
+a,,59,filler,filler22,,,,,
+a,,60,filler,filler23,,,,,
+a,,61,filler,filler24,,,,,
+a,,62,filler,filler25,,,,,
+a,,63,filler,filler26,,,,,
+a,,64,filler,filler27,,,,,
+a,,65,filler,filler28,,,,,
+a,,66,filler,filler29,,,,,
+a,,67,filler,filler30,,,,,
+a,,68,filler,filler31,,,,,
+a,,69,filler,filler32,,,,,
+a,,70,filler,filler33,,,,,
+a,,71,filler,filler34,,,,,
+a,,72,filler,filler35,,,,,
+a,,73,filler,filler36,,,,,
+a,,74,filler,filler37,,,,,
+a,,75,filler,filler38,,,,,
+a,,76,filler,filler39,,,,,
+a,,77,filler,filler40,,,,,
