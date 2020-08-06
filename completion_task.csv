@@ -1,43 +1,43 @@
 ﻿Group,Number,factor1,factor2,Sentence,VerbDutch,VerbEnglish,PredicateDutch,PredicateEnglish
-a,1,DID,female,Hoe boos op haar vanwege de fout suggereerde ,suggereren,suggest,boos,upset (a)
-a,2,DID,male,Hoe trots op hem vanwege de overwinning verwachtte,verwachten,expect,trots,proud
-a,3,DID,female,Hoe gefrustreerd met haar vanwege de vertraging veronderstelde,veronderstelt,presuppose,gefrustreerd,frustrated
-a,4,DID,male,Hoe gelukkig met hem op het terras zag,zien,see,gelukkig,happy
-a,5,DID,female,Hoe tevreden met haar vanwege de omzet merkte,merken,notice,tevreden,content
-a,6,DID,male,Hoe teleurgesteld in hem vanwege de slechte score droomde,dromen,dream,teleurgsteld,disappointed
-a,7,DID,female,Hoe verliefd op haar op de middelbare school vond ,vinden,find,verliefd,in love with
-a,8,DID,male,Hoe ontsteld met hem vanwege de foute opmerking dacht,denken,think,ontsteld,upset (b)
-a,9,DID,female,Hoe blij met haar en met de overwinning claimde,claim,claim,blij,happy
-a,10,DID,male,Hoe verrast met hem en zijn verloving wist,weet,know,verrast,surprised
-a,11,DID,female,Hoe overdonderd door haar en door de afwijzing schreef,schrijven,write,overdonderd,overwhelmed
-a,12,DID,male,Hoe gesteld op hem ontdekte,ontdekken,discover,gesteld ,fond of 
-a,13,DID,female,Hoe boos op haar en de grote fout verwachtte,geloven,believe,boos,upset (a)
-a,14,DID,male,Hoe gelukkig met hem vanwege het succes zei,zeggen,say,gelukkig,happy
-a,15,DID,female,Hoe tevreden met haar vanwege de overwinning vertelde,vertellen,tell,tevreden,content
-a,16,DID,male,Hoe verrast met hem vanwege het succes hoopte,hopen,hope,verrast,surprised
-a,17,DID,female,Hoe kwaad op haar vanwege de brandmelding vreesde,vrezen,fear,kwaad,angry
-a,18,DID,male,Hoe bezorgd om hem rapporteerde,rapporteren,report,bezorgd ,worried
-a,19,DID,female,Hoe gefrustreerd met haar denkt ,denken,think,gefrustreerd,frustrated
-a,20,DID,male,Hoe verliefd op hem vermoedde,vermoeden,suspect,verliefd,in love with
-a,21,DID,female,Hoe teleurgesteld met haar vergat,vergeten,forget,teleurgsteld,disappointed
+a,1,DID,female,Hoe boos op haar vanwege de fout suggereerde de,suggereren,suggest,boos,upset (a)
+a,2,DID,male,Hoe trots op hem vanwege de overwinning verwachtte de,verwachten,expect,trots,proud
+a,3,DID,female,Hoe gefrustreerd met haar vanwege de vertraging veronderstelde de,veronderstelt,presuppose,gefrustreerd,frustrated
+a,4,DID,male,Hoe gelukkig met hem op het terras zag de,zien,see,gelukkig,happy
+a,5,DID,female,Hoe tevreden met haar vanwege de omzet merkte de,merken,notice,tevreden,content
+a,6,DID,male,Hoe teleurgesteld in hem vanwege de slechte score droomde de,dromen,dream,teleurgsteld,disappointed
+a,7,DID,female,Hoe verliefd op haar op de middelbare school vond de,vinden,find,verliefd,in love with
+a,8,DID,male,Hoe ontsteld met hem vanwege de foute opmerking dacht de,denken,think,ontsteld,upset (b)
+a,9,DID,female,Hoe blij met haar en met de overwinning claimde de,claim,claim,blij,happy
+a,10,DID,male,Hoe verrast met hem en zijn verloving wist de,weet,know,verrast,surprised
+a,11,DID,female,Hoe overdonderd door haar en door de afwijzing schreef de,schrijven,write,overdonderd,overwhelmed
+a,12,DID,male,Hoe gesteld op hem ontdekte de ,ontdekken,discover,gesteld ,fond of 
+a,13,DID,female,Hoe boos op haar en de grote fout verwachtte de,geloven,believe,boos,upset (a)
+a,14,DID,male,Hoe gelukkig met hem vanwege het succes zei de,zeggen,say,gelukkig,happy
+a,15,DID,female,Hoe tevreden met haar vanwege de overwinning vertelde de ,vertellen,tell,tevreden,content
+a,16,DID,male,Hoe verrast met hem vanwege het succes hoopte de,hopen,hope,verrast,surprised
+a,17,DID,female,Hoe kwaad op haar vanwege de brandmelding vreesde de,vrezen,fear,kwaad,angry
+a,18,DID,male,Hoe bezorgd om hem vanwege het ongeluk rapporteerde de,rapporteren,report,bezorgd ,worried
+a,19,DID,female,Hoe gefrustreerd met haar vanwege de omweg denkt de,denken,think,gefrustreerd,frustrated
+a,20,DID,male,Hoe verliefd op hem om z'n glimlach vermoedde de,vermoeden,suspect,verliefd,in love with
+a,21,DID,female,Hoe teleurgesteld met haar om de afzegging vergat de,vergeten,forget,teleurgsteld,disappointed
 a,22,DID,male,Hoe geirriteerd met hem vanwege de herrie verklaarde,verklaren,declare,geirriteerd,annoyed
 a,23,DID,female,Hoe boos op haar vanwege het ongeluk riep,roepen,exclaim,boos,angry
 a,24,DID,male,Hoe ontsteld met hem vanwege het wangedrag legde,uitleggen,explain,ontsteld,upset
-a,25,DID,female,Hoe overdonderd door haar vanwege de verrassing stelde,uiteenzetten,explain (b),overdonderd,overwhelmed
+a,25,DID,female,Hoe overdonderd door haar vanwege de verrassing stelde,uiteenzetten,know,overdonderd,overwhelmed
 a,26,DID,male,Hoe blij met hem vanwege zijn cabaret lachte,lachen,laugh,blij,happy
 a,27,DID,female,Hoe tevreden met haar vanwege haar werklust suggereerde,suggereren,suggest,tevreden,content
-a,28,WAS,female,Hoe boos op haar was ,zijn,be,boos,upset (a)
-a,29,WAS,female,Hoe trots op haar was,zijn,be,trots,proud
-a,30,WAS,female,Hoe gefrustreerd met haar was,zijn,be,gefrustreerd,frustrated
-a,31,WAS,female,Hoe gelukkig met haar was,zijn,be,gelukkig,happy
-a,32,WAS,female,Hoe tevreden met haar was,zijn,be,tevreden,content
-a,33,WAS,female,Hoe teleurgesteld in haar was,zijn,be,teleurgsteld,disappointed
-a,34,WAS,male,Hoe verliefd op hem was ,zijn,be,verliefd,in love with
-a,35,WAS,male,Hoe ontsteld met hem was,zijn,be,ontsteld,upset (b)
-a,36,WAS,male,Hoe blij met hem was,zijn,be,blij,happy
-a,37,WAS,male,Hoe verrast met hem was,zijn,be,verrast,surprised
-a,38,WAS,male,Hoe overdonderd door hem was,zijn,be,overdonderd,overwhelmed
-a,39,WAS,male,Hoe gesteld op hem was,zijn,be,gesteld ,fond of 
+a,28,WAS,female,Hoe boos op haar om de gebroken vaas was de,zijn,be,boos,upset (a)
+a,29,WAS,female,Hoe trots op haar vanwege de medaille was de,zijn,be,trots,proud
+a,30,WAS,female,Hoe gefrustreerd met haar vanwege het gemopper was de,zijn,be,gefrustreerd,frustrated
+a,31,WAS,female,Hoe gelukkig met haar in het nieuwe huis was de,zijn,be,gelukkig,happy
+a,32,WAS,female,Hoe tevreden met haar op de afdeling was de,zijn,be,tevreden,content
+a,33,WAS,female,Hoe teleurgesteld in haar vanwege de blunder was de,zijn,be,teleurgsteld,disappointed
+a,34,WAS,male,Hoe verliefd op hem tijdens het feestje was de,zijn,be,verliefd,in love with
+a,35,WAS,male,Hoe ontsteld met hem na het ongeluk was de,zijn,be,ontsteld,upset (b)
+a,36,WAS,male,Hoe blij met hem en het harde werk was de,zijn,be,blij,happy
+a,37,WAS,male,Hoe verrast met hem vanwege het feestje was,zijn,be,verrast,surprised
+a,38,WAS,male,Hoe overdonderd door hem met de fles wijn was de,zijn,be,overdonderd,overwhelmed
+a,39,WAS,male,Hoe gesteld op hem vanwege de betrokkenheid was de,zijn,be,gesteld ,fond of 
 a,40,filler,filler1,Hoe lang in het donker dacht ,denken,think,,How long in the dark 
 a,41,filler,filler2,Hoe vaak was,zijn,be,,How often
 a,42,filler,filler3,Wanneer ongeveer was ,zijn,be,,When approximately
